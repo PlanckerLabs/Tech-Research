@@ -40,7 +40,7 @@
 + @jhfnetboy How to adjust the Triangle: Convenience, Cost and Security
 
 
-### Topic 3: What you should Know in building Web3?
+### Topic 3: Ethereum Introduction on Technical Conceptions
 
 #### Project 1: Serious Class of Ethereum Ecosystem
 
@@ -58,3 +58,13 @@
 ##### Future: Scale out and up, lower the gas, help more people
 
 ##### more waiting for you to join!
+
+### Topic 4: Tech Stack Overview and Walkthrough
+
+#### Where the data stores?
+
+#### The contract's secret
+
+#### Web3's architecture
+
+#### Frontend Engineer: the Son of God!
