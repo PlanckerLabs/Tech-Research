@@ -19,7 +19,8 @@
 
 ## Topic
 + We follow this plan and topics: [Plancker Notion](https://www.notion.so/plancker/e9b91cb036d34322b47ca1bbef390269).
-+ The EIP research is [here](https://github.com/PlanckerLabs/EIP-Research).
++ The EIP research is [EIP-Research](https://github.com/PlanckerLabs/EIP-Research).
++ The Product research is [Product-Research](https://github.com/PlanckerLabs/Product-Research).
 
 ### Topic 1: Security and Signature
 #### Project 1: doing
