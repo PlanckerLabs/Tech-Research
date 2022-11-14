@@ -71,4 +71,4 @@
 
 ### Topic 5 Crypto algorythm
 #### ZK: Snark, Stark and Plonk
-+ [zk-introduce](zk-intruduce.md)
++ [zk-introduce](zk-introduce.md)
